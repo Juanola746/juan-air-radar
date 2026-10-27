@@ -1,0 +1,27 @@
+{
+  "id": "./",
+  "name": "Juan Air Radar",
+  "short_name": "Juan Air Radar",
+  "description": "Radar a\u00e9reo de Juan: tr\u00e1fico, aer\u00f3dromos y meteorolog\u00eda.",
+  "lang": "es-AR",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#080d15",
+  "theme_color": "#080d15",
+  "orientation": "landscape",
+  "icons": [
+    {
+      "src": "./radar-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./radar-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
